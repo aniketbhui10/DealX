@@ -1,0 +1,31 @@
+{
+
+  "slides":[
+
+      {
+
+           "src":"https://m.media-amazon.com/images/I/71K7LHNK7DL._AC_SL1500_.jpg",
+           "alt":"Image 1 for Carousel"
+
+      },
+      {
+
+        "src":"https://m.media-amazon.com/images/I/8131pwAojZL._SL1500_.jpg",
+        "alt":"Image 2 for Carousel"
+
+   },
+
+   {
+
+    "src":"https://m.media-amazon.com/images/I/91qrsV9uS-L._SL1500_.jpg",
+    "alt":"Image 1 for Carousel"
+
+}
+
+  ]
+
+
+
+
+
+}
